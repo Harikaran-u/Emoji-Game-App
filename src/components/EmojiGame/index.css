@@ -1,0 +1,15 @@
+/* Write your code here. */
+.home-app-cont {
+  max-height: 250vh;
+  background-image: linear-gradient(#9796f0, #fbc7d4);
+  padding-bottom: 20px;
+}
+.emojis-list-cont {
+  display: flex;
+  flex-wrap: wrap;
+}
+.emojis-cont {
+  display: flex;
+  margin: 40px;
+  max-width: 1000px;
+}

@@ -1,0 +1,35 @@
+/* Write your code here. */
+.nav-items {
+  height: 70px;
+  width: 100%;
+  border: 0px solid;
+  background-color: #ffffff33;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.logo-cont {
+  display: flex;
+  align-items: center;
+}
+.emoji-app-logo {
+  height: 36px;
+  width: 54px;
+}
+.score {
+  font-family: Roboto;
+  font-size: 16px;
+  color: #ffffff;
+  margin-right: 20px;
+}
+.score-cont {
+  display: flex;
+}
+.app-name {
+  font-family: Roboto;
+  font-size: 18px;
+  color: #ffffff;
+  margin-left: 10px;
+}

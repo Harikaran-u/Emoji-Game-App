@@ -1,0 +1,51 @@
+/* Write your code here. */
+.result-cont {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff33;
+  border: 0px solid;
+  border-radius: 10px;
+  padding: 20px;
+  height: 600px;
+  width: 900px;
+}
+.result-card-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.result {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 56px;
+  color: #ffffff;
+}
+.best-score {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 32px;
+  color: #ffffff;
+}
+
+.final-score {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 28px;
+  color: #6a59ff;
+}
+.play-again {
+  background-color: #ffce27;
+  border-radius: 10px;
+  border: 0px solid;
+  color: #3d3d3d;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 10px;
+  height: 38px;
+  width: 80px;
+  outline: none;
+  cursor: pointer;
+}
+.result-img {
+  width: 46%;
+}
